@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Fler.cz autopager
 // @namespace   http://www.fler.cz
-// @description Automatické načítání stránek katalogu
+// @description fler.cz catalog autopager
 // @include     http*://www.fler.cz/*
 // @version     1
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js
