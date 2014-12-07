@@ -1,2 +1,2 @@
-fler.cz autopager
+Fler.cz autopager
 -----------------
