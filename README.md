@@ -1,5 +1,7 @@
 Fler.cz autopager
------------------
+=================
+
+Fler.cz autopager userscript
 
 ### Install
 
